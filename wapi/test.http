@@ -1,0 +1,19 @@
+### hello word
+GET http://localhost:3000/api/ HTTP/1.1
+
+### example
+GET http://localhost:3000/api/example/params HTTP/1.1
+Content-Type: application/json
+
+{
+    "test": "example"
+}
+
+### wildcard
+GET http://localhost:3000/api/wildcard/wondsdsf HTTP/1.1
+
+### http status code
+GET http://localhost:3000/api/return204 HTTP/1.1
+
+### redirect
+GET http://localhost:3000/api/redirect HTTP/1.1
