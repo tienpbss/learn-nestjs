@@ -3,10 +3,9 @@ POST http://localhost:3000/api/user HTTP/1.1
 Content-Type: application/json
 
 {
-    "id": 1,
     "name": "lily",
     "email": "abc@qa.team",
-    "password": "hehe",
+    "password": "hehe"
 }
 
 ### read an user

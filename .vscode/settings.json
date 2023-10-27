@@ -1,8 +1,9 @@
 {
     "cSpell.words": [
+        "typeorm",
         "wond"
     ],
     "[typescript]": {
-        "editor.tabSize": 4
+        "editor.tabSize": 2
     }
 }
