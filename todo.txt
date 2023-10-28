@@ -1,3 +1,11 @@
 CRUD USER:
     typeorm - mysql -> done
-    
+    validate input create, update
+        gui thua truong => whitelist
+        gui thieu truong => mac dinh khi co decoration
+        custom message => done
+        dup email => done
+        auto transform string to int => done
+
+    format output (loai bo password field) => done
+    What is partial in update
